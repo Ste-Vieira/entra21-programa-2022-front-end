@@ -1,0 +1,11 @@
+body{
+    background-image: url(/imagens/esportes.png);
+   background-size: 1600px;
+}
+
+body{
+    
+}
+footer::after{
+    content: "© Copyright Programa - 2022 Front-End";
+}
